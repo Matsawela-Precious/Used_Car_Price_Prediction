@@ -1,8 +1,10 @@
 # Used_Car_Price_Prediction
 Problem Statement
+
 The used car market is complex, with numerous factors influencing a car's resale value, such as manufacturer reputation, age, mileage, engine specifications, power output, kilometers driven, and seating capacity. Accurately predicting used car prices can empower buyers and sellers to make informed decisions. This project aims to develop a machine learning model that analyzes historical sales data to estimate the market value of used cars, enhancing pricing strategies and negotiations.
 
 Solution Approach
+
 To predict used car prices, a comprehensive dataset of historical car sales is used. The approach involves several steps:
 
 Data Collection:
